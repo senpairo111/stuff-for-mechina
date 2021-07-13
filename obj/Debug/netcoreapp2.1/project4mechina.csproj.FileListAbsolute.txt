@@ -1,0 +1,11 @@
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\bin\Debug\netcoreapp2.1\project4mechina.deps.json
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\bin\Debug\netcoreapp2.1\project4mechina.runtimeconfig.json
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\bin\Debug\netcoreapp2.1\project4mechina.runtimeconfig.dev.json
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\bin\Debug\netcoreapp2.1\project4mechina.dll
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\bin\Debug\netcoreapp2.1\project4mechina.pdb
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\obj\Debug\netcoreapp2.1\project4mechina.csprojAssemblyReference.cache
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\obj\Debug\netcoreapp2.1\project4mechina.csproj.CoreCompileInputs.cache
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\obj\Debug\netcoreapp2.1\project4mechina.AssemblyInfoInputs.cache
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\obj\Debug\netcoreapp2.1\project4mechina.AssemblyInfo.cs
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\obj\Debug\netcoreapp2.1\project4mechina.dll
+C:\Users\lab1.ODED\source\repos\project4mechina\project4mechina\obj\Debug\netcoreapp2.1\project4mechina.pdb
