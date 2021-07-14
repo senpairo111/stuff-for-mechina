@@ -1,0 +1,11 @@
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\bin\Debug\netcoreapp2.1\stuff4mechina.deps.json
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\bin\Debug\netcoreapp2.1\stuff4mechina.runtimeconfig.json
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\bin\Debug\netcoreapp2.1\stuff4mechina.runtimeconfig.dev.json
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\bin\Debug\netcoreapp2.1\stuff4mechina.dll
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\bin\Debug\netcoreapp2.1\stuff4mechina.pdb
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\obj\Debug\netcoreapp2.1\stuff4mechina.csprojAssemblyReference.cache
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\obj\Debug\netcoreapp2.1\stuff4mechina.csproj.CoreCompileInputs.cache
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\obj\Debug\netcoreapp2.1\stuff4mechina.AssemblyInfoInputs.cache
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\obj\Debug\netcoreapp2.1\stuff4mechina.AssemblyInfo.cs
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\obj\Debug\netcoreapp2.1\stuff4mechina.dll
+C:\Users\lab1.ODED\source\repos\stuff4mechina\stuff4mechina\obj\Debug\netcoreapp2.1\stuff4mechina.pdb
